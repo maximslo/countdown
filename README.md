@@ -1,4 +1,7 @@
-# React + TypeScript + Vite
+# BU Senior Countdown!
+Made on Jan 5, 2025 - inspired by Ben Borgers
+
+## React + TypeScript + Vite shit
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
@@ -48,4 +51,3 @@ export default tseslint.config({
   },
 })
 ```
-# countdown
