@@ -1,5 +1,8 @@
 # BU Senior Countdown!
-Made on Jan 5, 2025 - inspired by Ben Borgers
+Made on Jan 5, 2025 - stolen from Ben Borgers
+- in future want to try locally hosting fonts or debug CLS
+- https://www.reddit.com/r/web_design/comments/1emfowa/is_there_a_way_to_avoid_fout_flash_of_unstyled/
+- https://web.dev/articles/codelab-preload-web-fonts
 
 ## React + TypeScript + Vite shit
 
